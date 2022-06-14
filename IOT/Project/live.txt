@@ -1,0 +1,15 @@
+Good afternoon one and all ...we are group 2 and our project is a Panic Alarm.
+This is a device that is exclusively designed for the elderly people but can also be used
+by anyone. It alerts the dependents when the user is in danger & it is not just that it
+alerts when someone presses the button but it is also capable of automatically alerting
+in case of emergency.
+We have already seen the intuition and circuit design of the model in the review 1 and 
+now I would like to show you the connections in brief and then we would be moving to
+the code explanation and then the live demo of the working. As u can see here in the 
+slide we have the following components. A pulse sensor for monitoring the pulse,
+an LED for indicating the status of the model, A node mcu that deals with the connection
+to the hotspot, jumper wires for connecting the components, a bread board and a push
+button that is used in cases of emergency.
+Now we are going to move to discussing the code that drives this model and sends the
+alerts to the e-mail and also to the dashboard of the webapp.
+The code will be discussed by shaiq.

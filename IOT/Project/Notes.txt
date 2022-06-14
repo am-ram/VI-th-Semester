@@ -1,0 +1,31 @@
+Good Afternoon everyone!!
+We are group 3 and today we are here to present our mini-project that showcases
+a panic alarm for elders.
+Let's start with the Abstract.
+Before we get into the technical aspects I would like to answer certain questions
+like.... Who is this product meant for? What are its features and so on.
+
+Let's assume a scenario wherein there is an elderly person alone at home and there
+is some kind of serious medical emergency and it requires immediate attention.
+At this point of time we cannot anticipate & expect the elders to dial up a phone
+or send a text message. So, this device definitely helps in this case. There is a 
+custom template and recepients number who needs to be alerted set prior to the 
+configuration & on press of the button they will defintely be alerted and would come 
+to aid.The formulation of this idea is from a research paper from Bali where there 
+were a lot of natural calamities that would affect many tourists and localites and 
+would put them in a situation where they cannot ask for aid. Since then the 
+government of Bali decided on this panic alarm that is suitable for all age groups.
+
+Let's now move to the introduction.
+We often experience a situation where we are not in a safe place or we require a 
+certain help to save ourselves. So, in this case we employ this panic alarm for 
+assistance without letting 3rd parties know.
+Additionally this device is mainly focused on the elders but it can also be used by 
+specially abled individuals like visually-impaired and the vocally challenged .
+This device is slowly being introduced in India whereas the other countries have
+already taken a leap.The global approximate by WHO's statement is that this device
+has prevented almost 17% of the medical emergencies beforehand and is now developing.
+
+Let's now proceed on how we would be able to build a panic alarm, required components 
+and the architecture along with their applications which would be explained by my
+group mates.
