@@ -1,0 +1,70 @@
+Good Morning Everyone !!! We are group 2 and we are here to put forth an usability
+evaluation between the two most giant video platforms that is YouTube and dailymotion.
+
+We all know YouTube is a most widely used and preferred platforms for be it any type
+of use like education, gaming, streaming, news and many more. It has spread across
+the globe with an active users of 7.2 billion. On the other hand we have dailymotion
+with an active users of 300 million which is the biggest competitor of YouTube. Now
+here we will discuss on what aspects of cognition, usability and guidelines that make 
+YouTube a wide-spread and successful option as compared to dailymotion.
+
+So as we have learnt in this course on the process or in fact the guidelines that are
+to be kept in mind in order to evaluate the websites or web-pages we will proceed
+with the following components : Navigating the interface ; Organizing the display
+Getting user's attention & Facilitating data entry. And in each of the criteria that
+we are going to evaluate on we will compare both YouTube & dailymotion simultaenously.
+So, let's move on to the next slide.
+
+Navigation of the interface. As you can observe on the screen on either side we have
+the homepages of both the websites. We can observe that there are similar components
+that have been positioned like the search bar, the user account, the recommendations,
+& also the logo that scrolls back when clicked.But as we observe closely & notice how
+the positioning of the elements are we realize that the design is simple but yet it
+appeals visually. On the other hand the home page of daily motion has a small draw
+back which we would be discussing further.
+
+Organizing the display. Again on either side we have the display overlay of both the
+platforms & the structure for youtube has evolved very much compared to its first.But
+in the next slide if you observe it from the time it was first built in the year of 2005 it
+looked like this. It is clearly seen that daily motion hasn't been updated since then.
+And the drawback that was mentioned was that the web-page of daily motion are not
+responsive with modern day devices. YouTube being a product of Google has many
+cognition experts who use comprehensive tools like an eye-tracker and similar methods to
+evaluate where does the user center his attention and the most crucial part in the
+cognitive design is that more detail is provided in building muscle memory for the users
+so that they do not have to spend extra time in getting to know the interface when they
+visit the second time. This was done in order to suit all kinds novice, intermediate &
+the expert users.
+
+Moving on next,
+Getting user's attention. Both the platforms have quite a contrast when it comes to
+capturing the attention of the users. YouTube has organized tabs for trending,
+recommended and mostly viewed real time data where as daily motion believes in 
+constant design and has no real time updation. In a survey that was conducted in 
+Twitter there were 78% of users who were very much attracted by the trending section
+of videos on YouTube and this was widely appreciated. YouTube also asks their users to fill
+short surveys related to their ads or how satisfied they're with the homepage. This is done
+so that the interface can be made more smooth.
+
+Moving further,
+Facilitating data entry. This is indeed a very important part of the website as the
+core interaction from the user is facilitated by this part. Search boxes are one such
+example that we can consider in this case. And also keeping in mind that there should
+be minimal load on the users and the different types of users be it novice, intermed-
+iate or expert there should be ample amount of conditions that needs to be followed
+like the search completion, matching incorrect searches to most relevant one and 
+many such cognitive aspects.
+
+As there has to be a real time opinion amongst the users who use these websites, we
+have also put forth a small survey that was planned and the following are the results
+drawn from it :
+These two images answer the question of the user's most preferred choice and also the reco-
+mendations provided by the sites. As you can see 57.1% have chosen YouTube to be their 
+first preference 65.8% of users have appreciated the reccomendations provided by YouTube.
+Moving to the next slide, we see observe the question that says how safe are YouTube and
+daily motion when it comes to surfing for kids and restricting adult content. As we 
+observe YouTube has a majority score of 4.5/5 where as dailymotion has 3/5.
+In the last question of the survey we asked users what would they recommend others to
+use and as you can observe 70.2% answered as YouTube. And hence with respect to the 
+principles of interface design and cognition we say YouTube has a better usability score.
+The other essential aspects of design will further be continued by my groupmates
